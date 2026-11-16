@@ -16,3 +16,6 @@
 # OS files
 Thumbs.db
 .DS_Store
+
+# Local helper scripts
+push.bat
