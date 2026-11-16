@@ -59,8 +59,7 @@ Use this mapping when recording the explanation video.
 ## Submission checklist
 
 - [x] Project and zip file named `A1-TianruiSheng.zip`.
-- [ ] Push all source files to the GitHub repository and invite the tutor and
-      unit assessor as collaborators if the repo is private.
+- [x] Push all source files to the public GitHub repository.
 - [ ] Attach the WakaTime time-tracking report (`A1-TianruiSheng-WakaTime`).
 - [ ] Upload the explanation video to SCU OneDrive and add the shareable link.
 - [ ] Add the GitHub link and video link in the submission comments.
