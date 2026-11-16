@@ -1,12 +1,9 @@
-# A1-username — PROG2004 Assessment 1
+# A1-TianruiSheng — PROG2004 Assessment 1
 
 A simple clinic appointment system written in Java. The system models health
 professionals of several types and manages appointments booked for the current
 day. There is no user interface; the `main` method in `AssignmentOne` runs a
 short scripted demonstration that prints results to the console.
-
-> Rename this project folder and the submitted zip to your own MySCU username,
-> for example `A1-lfolkman`.
 
 ## How to run
 
@@ -61,10 +58,10 @@ Use this mapping when recording the explanation video.
 
 ## Submission checklist
 
-- [ ] Rename the project and zip file to `A1-<your-username>.zip`.
+- [x] Project and zip file named `A1-TianruiSheng.zip`.
 - [ ] Push all source files to the GitHub repository and invite the tutor and
       unit assessor as collaborators if the repo is private.
-- [ ] Attach the WakaTime time-tracking report (`A1-<your-username>-WakaTime`).
+- [ ] Attach the WakaTime time-tracking report (`A1-TianruiSheng-WakaTime`).
 - [ ] Upload the explanation video to SCU OneDrive and add the shareable link.
 - [ ] Add the GitHub link and video link in the submission comments.
 - [ ] Include the GenAI declaration in the submission comments.
